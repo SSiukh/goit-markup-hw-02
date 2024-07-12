@@ -79,7 +79,6 @@ ul {
 
 .section-first {
   background-color: #2e2f42;
-  align-items: center;
   justify-content: center;
   flex-direction: column;
 }
@@ -145,7 +144,6 @@ ul {
 
 .section-third {
   background-color: #f4f4fd;
-  align-items: center;
   justify-content: center;
   flex-direction: column;
 }
