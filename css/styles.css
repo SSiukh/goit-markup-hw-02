@@ -80,7 +80,6 @@ ul {
 .section-first {
   background-color: #2e2f42;
   justify-content: center;
-  flex-direction: column;
 }
 .main-title {
   font-weight: 700;
@@ -144,8 +143,6 @@ ul {
 
 .section-third {
   background-color: #f4f4fd;
-  justify-content: center;
-  flex-direction: column;
 }
 
 .title-second-visible {
