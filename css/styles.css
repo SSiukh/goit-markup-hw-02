@@ -59,7 +59,7 @@ ul {
   line-height: 1.5;
   color: #2e2f42;
 }
-.address{
+.address {
   font-style: normal;
 }
 
@@ -152,7 +152,6 @@ ul {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-
 }
 
 .section-2-list {
@@ -225,15 +224,6 @@ ul {
   background-color: #fff;
 }
 
-.section-3-content {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  gap: 8px;
-  margin-bottom: 32px;
-}
-
 .section-fourth {
   height: 1223px;
   width: 1440px;
@@ -247,15 +237,6 @@ ul {
   width: 360px;
   height: 420px;
   background-color: #fff;
-}
-.item-contents {
-  margin-top: 32px;
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-  flex-direction: column;
-  gap: 8px;
-  margin-left: 16px;
 }
 .footer {
   width: 1440px;
